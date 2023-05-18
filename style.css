@@ -1,0 +1,39 @@
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header {
+  background-color: brown;
+  border-radius: 5px;
+  height: 30px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+main {
+ display: flex;
+
+}
+nav {
+  background-color: red;
+  border-radius: 5px;
+  height: 150px;
+  width: 60px;
+}
+article {
+  background-color: yellow;
+  border-radius: 5px;
+  height: 150px;
+  width: 130px;
+  margin-left: 10px;
+}
+footer {
+  background-color:blanchedalmond;
+  border-radius: 5px;
+  height: 30px;
+  width: 200px;
+  margin-top: 10px;
+}
